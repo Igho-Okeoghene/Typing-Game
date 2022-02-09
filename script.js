@@ -55,7 +55,7 @@ function checkInput(){ //a function to check what is being typed in the input el
     }
 
     highlightPosition ++;
-    //quote.childNodes[highlightPosition].className = "highlight";//this highlights the first word when a game starts.
+    quote.childNodes[highlightPosition].className = "highlight";//this highlights the first word when a game starts.
 }
 
 function gameOver(){
