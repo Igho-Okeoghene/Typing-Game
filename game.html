@@ -4,14 +4,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
+  
+    <link rel="stylesheet" href="style.css">
     <title>CODERS' TYPING GAME</title>
 </head>
 <body>
     <div class="container">
-        <h1 class="title">Coders Typing Game</h1>
-        <p class="quote">Dummy Text</p>
-        <input type="text">
-         
+        <h1 class="title">Coders' Typing Game</h1>
+        <p class="details">Instruction:<br> Click the Start Button<br> Type the text below, as fast as you can in the input box <br>and Learn while you do so!</p>
+        <button type="button" id="start" class="button"><span> START GAME</span><span
+            id="rocket"
+            class="iconify w-8 h-8"
+            data-icon="emojione:rocket"
+          ></span>
+        </button></button>
+        <p id="quote"></p>
+        <input type="text" id="typed-value">
+        <p id="message"></p>
+          
     </div>
+    <script src="script.js"></script>
 </body>
 </html>
