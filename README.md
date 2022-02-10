@@ -38,7 +38,7 @@ This game is excellent for beginners in programming, instructors can use it to s
 
 - [W3SCHOOLS](https://www.w3schools.com)
 
-## Author
+## Developer
 
 - Website - [Okeoghene Eunice Igho](https://github.com/Igho-Okeoghene)
 - LinkedIn - [Okeoghene Eunice](https://www.linkedin.com/in/okeoghene-eunice-igho)
