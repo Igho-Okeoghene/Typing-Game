@@ -48,7 +48,7 @@ start.addEventListener("click", startGame);
 input.addEventListener("input", checkInput);
 reset.addEventListener("click", resetGame);
 function checkInput(){ //a function to check what is being typed in the input element
-    const currentWord = wordQueue[0].replaceAll(".","").replaceAll(",","");
+    const currentWord = wordQueue[0]//.replaceAll(".","").replaceAll(",","");
     const typedValue = input.value.trim();//trim removes all white spaces when the player is typing to avoid throwing unneccessary errors
    
     if(currentWord !== typedValue){
