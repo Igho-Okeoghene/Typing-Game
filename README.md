@@ -11,6 +11,19 @@
 ## Overview
 This game is excellent for beginners in programming, instructors can use it to spring up students interest in HTML. It introduces HTML in a fun way!
 
+Instructions:
+Type all Full-stops and Commas.
+ Game is Case Sensitive.
+ When it throws an error, backspace the error and continue typing.
+ Type Fast and Have Fun!
+
+How It Works:
+ The game displays typing speed at the completion of the sentence.
+ It checks for errors when the player types and notifies the player.
+ It's built to randomly display different sentences on windows refresh.
+ The reset button displays another sentence. The reset button will only show after the first sentence has been typed.
+ The rocket icon keeps moving fast according to the percentage of completion.
+ It is a fun way to introduce HTML! 
 
 ### Screenshot
 
@@ -43,3 +56,4 @@ This game is excellent for beginners in programming, instructors can use it to s
 - Website - [Okeoghene Eunice Igho](https://github.com/Igho-Okeoghene)
 - LinkedIn - [Okeoghene Eunice](https://www.linkedin.com/in/okeoghene-eunice-igho)
 - Twitter - [@Eunicodes](https://www.twitter.com/eunicodes)
+
